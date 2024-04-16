@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "901-9019066_lays-chips-masala-70-gm-lays-salt-and.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "901-9019066_lays-chips-masala-70-gm-lays-salt-and@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "901-9019066_lays-chips-masala-70-gm-lays-salt-and@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
